@@ -1,16 +1,30 @@
 {
   "name": "node-rcon",
-  "version": "0.1.0",
-  "description": "A very simple Node.js Minecraft RCON client and server package.",
+  "version": "0.1.1",
+  "description": "A very simple Minecraft RCON client and server package for Node.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "nodejs",
+    "javascript",
     "minecraft",
-    "rcon"
+    "node",
+    "js",
+    "rcon",
+    "node-js",
+    "rcon-client",
+    "minecraft-rcon"
   ],
-  "author": "coolguy284",
-  "license": "ISC"
+  "author": "coolguy284 <coolguy284v64@gmail.com> (https://github.com/coolguy284)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolguy284/node-rcon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coolguy284/node-rcon/issues"
+  },
+  "homepage": "https://github.com/coolguy284/node-rcon"
 }
